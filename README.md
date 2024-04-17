@@ -1,2 +1,2 @@
 # test
-this is a test repository for my college project.
+This is a test repository for my college project.
